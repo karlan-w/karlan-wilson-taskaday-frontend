@@ -4,7 +4,6 @@
 
 My application is a progress record application. Users can create a to-do list and use a focus timer to record their progress in completing each task. Users can reflect on the tasks completed retroactively and see their productivity in a week and month timeframe. 
 
-
 ### Problem
 
 Focus timers and to-do applications rarely allow you to record your progress for your tasks or provide an understanding of your total productivity. The most common record of productivity is a binary yes, or no for task completion. This application will allow you to track the time spent on your focus tasks. 
@@ -97,6 +96,7 @@ Week 1: June 10th - 16th
 - Create applicable routes.
 - Create endpoint tasks for CRUD.  
 - Test each using test data using PostMan or CURL. 
+
 Week 2: June 17th - 23rd 
 - Develop the Navbar. 
 - Design main page.
